@@ -1,4 +1,5 @@
 http://example.com/2023/10/02/test01/
+http://example.com/2023/10/02/test02/
 http://example.com/2023/10/02/test/
 http://example.com/2023/10/02/hello-world/
 http://example.com/
